@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{1DA3E26B-B973-B9AB-7862-9E538857837E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/01_MenuScene/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/01_MenuScene/MainMenu.cs" Line="16" Column="22" />
+      <File FileName="Assets/Scripts/Player/Player.cs" Line="173" Column="51" />
+      <File FileName="Assets/Scripts/Manager/UIManager.cs" />
+      <File FileName="Assets/Scripts/Manager/GameManager.cs" />
+      <File FileName="Assets/InputActions/TouchControls.cs" />
+      <File FileName="Assets/Scripts/Shop/Shop.cs" />
+      <File FileName="Assets/Scripts/End.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fe7799b0-d694-4750-a58d-0bf01fc0bac6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Unity.2D.Tilemap.Extras PreferredExecutionTarget="e429db40-627e-406e-b3af-1d9bb72f90c7" />
+</Properties>
